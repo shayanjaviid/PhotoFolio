@@ -97,4 +97,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 Designed by [Shayan Javid](https://www.linkedin.com/in/shayan-javiid-7093012a5/)
 
-For any inquiries or questions, please contact me at [your-email@example.com](mailto:shayantghzdh@gmail.com).
+For any inquiries or questions, please contact me at [shayanthzdh@gmail.com](mailto:shayantghzdh@gmail.com).
