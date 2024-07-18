@@ -4,7 +4,6 @@ PhotoFolio is an elegant and creative Photography website template built with th
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -13,10 +12,6 @@ PhotoFolio is an elegant and creative Photography website template built with th
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Demo
-
-Check out the live demo: [PhotoFolio Demo](https://your-demo-link.com)
 
 ## Features
 
