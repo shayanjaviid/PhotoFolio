@@ -66,6 +66,11 @@ PhotoFolio is an elegant and creative Photography website template built with th
 - **Social Links:** Social media icons link to your respective profiles.
 
 ## Screen Shot
+![1](https://github.com/user-attachments/assets/d86d8757-cf51-47fb-a4c1-95cc2b9376e6)
+![2](https://github.com/user-attachments/assets/b00ac4d7-e691-4511-8466-b43d21315c0c)
+![3](https://github.com/user-attachments/assets/a298aeda-c1cf-4c4f-9a96-45bccc7eacdd)
+![4](https://github.com/user-attachments/assets/13eb0132-3923-4cb1-af65-13982d1d42e2)
+![5](https://github.com/user-attachments/assets/392385d2-691f-479a-b123-d00ebfdc5699)
 
 
 ## Contributing
